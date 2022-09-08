@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<style>
+	textarea.autosize { 
+		min-height: 50px; 
+		width: 300px;
+		}
+</style>
+</head>
+<body>
+	<textarea class="autosize" onkeydown="resize(this)" onkeyup="resize(this)" placeholder="입력하시오"></textarea>
+
+	<script>
+		function resize(obj) {
+		  obj.style.height = "1px";
+		  obj.style.height = (12+obj.scrollHeight)+"px";
+		}
+	</script>
+</body>
+</html>
