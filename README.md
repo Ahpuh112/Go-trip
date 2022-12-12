@@ -76,7 +76,7 @@
 </table>
 
 ## 🌊 서비스 흐름도
-(ppt에 있는거 화질구지라서 화질좋은거 있으면 진욱이가 추가해줘)(방법 = 사진 드래그하면됨 넣고싶은데에다가)
+![image](https://user-images.githubusercontent.com/110751978/206967244-d27dfa88-d16d-45c8-8b9a-3d01a48eaf35.png)
 
 ## 🗺 E-R Diagram
 ![image](https://user-images.githubusercontent.com/110751978/206967064-11cc80af-42bd-4377-a7c6-9647a38fcfba.png)
