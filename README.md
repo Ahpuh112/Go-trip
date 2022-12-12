@@ -81,6 +81,8 @@
 ## 🗺 E-R Diagram
 ![image](https://user-images.githubusercontent.com/110751978/206967064-11cc80af-42bd-4377-a7c6-9647a38fcfba.png)
 
+##:stars:E-R Diagram
+
 ## 👨‍👩‍👧‍👦 팀원역할
 <table>
   <tr>
